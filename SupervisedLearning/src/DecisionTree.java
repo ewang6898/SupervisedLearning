@@ -6,4 +6,5 @@
  */
 public class DecisionTree {
     int num =0;
+    String message1= "push from local to different remote branch";
 }

@@ -3,4 +3,5 @@
  * but presumably because you're using boosting you can afford to be much more aggressive about your pruning.
  */
 public class Boosting {
+  String externalChange = "123";
 }
