@@ -6,5 +6,4 @@
  */
 public class DecisionTree {
     int num =0;
-    int num1=0;
 }
