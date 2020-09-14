@@ -6,4 +6,5 @@
  */
 public class DecisionTree {
     int num =0;
+    String message = "new branch";
 }
